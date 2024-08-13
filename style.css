@@ -1,0 +1,15 @@
+.body{
+    display: flex;
+    background-color: black;
+    align-items: center;
+}
+
+.h1{
+    color: whitesmoke;
+}
+
+.brilho{
+    width: 350px;
+    height: 150px;
+    background-color: rgb(56, 29, 151);
+}
