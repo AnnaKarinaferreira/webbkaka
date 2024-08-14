@@ -1,15 +1,15 @@
 .body{
     display: flex;
-    background-color: black;
-    align-items: center;
+    background: rgb(0, 0, 0);
 }
 
-.h1{
-    color: whitesmoke;
+.img-thumbnail{
+    width: 20vw;
 }
 
-.brilho{
-    width: 350px;
-    height: 150px;
-    background-color: rgb(56, 29, 151);
+.title1{
+    font-family: 'Lekton', sans-serif;
+    font-family: 'Lekton04', sans-serif;
+    color: #5039B8;
+    border-color: #97CC04;
 }
